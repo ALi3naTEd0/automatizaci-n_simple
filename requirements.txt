@@ -18,3 +18,5 @@ urllib3==2.2.2
 webdriver-manager==4.0.1
 websocket-client==1.8.0
 wsproto==1.2.0
+playwright==1.44.0
+yfinance>=1.2.0
